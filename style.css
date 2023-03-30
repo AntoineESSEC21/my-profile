@@ -1,0 +1,147 @@
+body {
+
+background-color: #EACDC2;
+text-align: center;
+color:#1B1F3B;
+
+}
+
+h1 {
+
+font-family: Merriweather Sans, sans-serif;
+color: #1B1F3B;
+font-size: 48px;
+font-weight: lighter;
+padding-top: 30px;
+margin-top: 60px;
+margin-bottom: 90px;
+}
+
+h4{
+
+font-family: Calibri ;
+color: #1B1F3B;
+font-size: 35px;
+font-weight: lighter;
+margin-bottom: 110px;
+}
+
+
+h3 {
+
+font-family: Calibri;
+font-size: 35px;
+font-weight: bold ;
+color:#CC2936;
+margin-top: 20px;
+
+
+}
+
+h2{
+
+	font-size: 25px;
+	padding-bottom: reduce;
+}
+
+h2 #Social {
+
+ font-size: 18px;
+ margin:0 auto;
+ object-position: center;
+
+}
+
+
+p {
+
+text-align: justify ;	
+font-family: Arial;
+letter-spacing: large;
+
+}
+
+
+a{
+
+	text-decoration: none;
+	color: #58A4B0;
+	font-size: 17px;
+}
+
+a:hover{
+
+	color: purple;
+}
+
+#picture { 
+	width: 200px;
+	border: 5px solid;
+	border-color: rgba(220, 220, 200, 0.9);
+}
+
+
+
+div { 
+
+	border: 2px solid #1B1F3B ;
+	border-radius: 7px;
+	padding: 10px;
+	width: 600px;
+	object-position: center;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+
+}
+
+div:hover {
+
+  color: #EACDC2;
+  background-color: #1B1F3B;
+
+}
+
+
+
+div .HerméStudio {
+
+     border: 2px solid #1B1F3B ;
+	border-radius: 7px;
+	padding: 10px;
+	padding-bottom: 20px;
+	width: 600px;
+	object-position: center;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 10px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+	text-align: justify ;
+    color: #1B1F3B;	
+    font-family: Arial;
+    letter-spacing: large;
+	
+
+}
+
+@media (max-width:500px) {
+
+     div{ 
+
+      width: 250px;
+      }
+
+}
+
+.HerméStudio:hover {
+   color: #EACDC2;
+   background-color: #1B1F3B; 
+}
+
+i{
+  font-size: 35px;
+}
+
+
